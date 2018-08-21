@@ -1,3 +1,3 @@
 CREATE TABLE IF NOT EXISTS `IISLast_Updated_ID` (
-  `id` int(100) DEFAULT NULL
+  `id` int(100) DEFAULT 1
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
